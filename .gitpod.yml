@@ -1,0 +1,4 @@
+tasks:
+  - name: Start Docker Compose
+    command: |
+      docker-compose up
